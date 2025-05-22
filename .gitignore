@@ -1,6 +1,8 @@
 # archivos que no deben aparecer
-
+.env
 *.txt
 *.csv
 
 employee.py
+!/RES
+!/RES/forms.csv
