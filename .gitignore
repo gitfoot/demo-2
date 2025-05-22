@@ -1,0 +1,6 @@
+# archivos que no deben aparecer
+
+*.txt
+*.csv
+
+employee.py
